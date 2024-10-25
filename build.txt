@@ -1,0 +1,3 @@
+displayName = TwitchInteractive
+author = twitch.tv/TheGuitarleader
+version = 0.1.0

@@ -1,0 +1,10 @@
+Configs: {
+	TwitchConfig: {
+		connectToTwitch: {
+			Tooltip: Turns on and off the connection to Twitch.
+			Label: Connect to Twitch
+		}
+
+		DisplayName: Twitch Config
+	}
+}
