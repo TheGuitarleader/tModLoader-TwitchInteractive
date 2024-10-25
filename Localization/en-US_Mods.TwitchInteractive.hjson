@@ -7,4 +7,43 @@ Configs: {
 
 		DisplayName: Twitch Config
 	}
+
+	TwitchClientConfig: {
+		DisplayName: Twitch Client Config
+
+		connectToTwitch: {
+			Label: Interact with chat
+			Tooltip: Enables and disables the interaction with Twitch.
+		}
+
+		InteractWithChat: {
+			Label: Interact with chat
+			Tooltip: Enables and disables the interaction with Twitch.
+		}
+	}
+
+	TwitchServerConfig: {
+		DisplayName: Twitch Server Config
+
+		connectToTwitch: {
+			Label: Connect to Twitch
+			Tooltip: Turns on and off the connection to Twitch.
+		}
+
+		Headers.Test: Test Header
+
+		ConnectToTwitch: {
+			Label: Connect to Twitch
+			Tooltip: Enables and disables the connection to Twitch.
+		}
+	}
+
+	TwitchApiConfig: {
+		DisplayName: Twitch Api Config
+
+		AccessToken: {
+			Label: Twitch Access Token
+			Tooltip: ""
+		}
+	}
 }

@@ -1,3 +1,6 @@
 displayName = TwitchInteractive
 author = twitch.tv/TheGuitarleader
 version = 0.1.0
+
+extendsfrommod = true
+dllReferences = TwitchLib.Client, TwitchLib.Client.Enums, TwitchLib.Client.Models, TwitchLib.Communication
